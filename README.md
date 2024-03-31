@@ -4,22 +4,21 @@ Move Slow and Break Things
 
 ## POGO
 
-Prototype - Staging area for new ideas
-Ongoing - Research
-Glyptodont - Self-contained armoured shell
-Obfuscarium - A soundproof room
+Prototype - Staging area for new ideas  <br>
+Ongoing - Research  <br>
+Glyptodont - Self-contained armoured shell  <br>
+Obfuscarium - A soundproof room  <br>
 
-## Adapted from the PARA method.
+## Adapted from the PARA method
 
-Projects
-Areas
-Resources
-Archives
+Projects  <br>
+Areas  <br>
+Resources  <br>
+Archives  <br>
 
-![Para Method](https://workflowy.com/systems/para-method/)
+## For more information see:
 
-## Other Resources
-
-![Move Slow](https://lux-magazine.com/article/move-slow-and-break-things/)
-![Glyptodont](https://en.wikipedia.org/wiki/Glyptodont)
-![Soundproof Room](https://forum.rpg.net/index.php?threads/lets-read-adventure-companion-fantasy-craft.856383/page-2#post-23007222)
+[Para Method](https://workflowy.com/systems/para-method/)  <br>
+[Glyptodont](https://en.wikipedia.org/wiki/Glyptodont)  <br>
+[Move Slow](https://lux-magazine.com/article/move-slow-and-break-things/)  <br>
+[Soundproof Room](https://forum.rpg.net/index.php?threads/lets-read-adventure-companion-fantasy-craft.856383/page-2#post-23007222)  <br>
