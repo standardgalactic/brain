@@ -9,6 +9,8 @@ Ongoing - Research  <br>
 Glyptodont - Self-contained armoured shell  <br>
 Obfuscarium - A soundproof room  <br>
 
+<img src="roboglyptodont.jpg" width="210" height="180">
+
 ## Adapted from the PARA method
 
 Projects  <br>
