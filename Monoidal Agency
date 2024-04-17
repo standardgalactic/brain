@@ -1,0 +1,343 @@
+Monoidal Agency
+
+Gemini
+
+def argue_math_agency():
+  """
+  This function argues the key points for agency in mathematics.
+  """
+  print("**Math and Agency**")
+  print("Traditionally, math is viewed as a static collection of rules and concepts.")
+  print("This talk proposes a new perspective: math as an agent with predictive power.")
+
+  # Scarcity and Non-Temporal Invariance
+  print("\n**Scarcity and Non-Temporal Invariance**")
+  print("Agency requires choices, and choices necessitate limitations.")
+  print("In math, logical consistency acts as a form of scarcity, even without physical limitations.")
+  print("This constraint allows for agency within the mathematical framework.")
+  print("Mathematical structures like universal properties represent optimal solutions under these constraints.")
+
+  # Predictions and Free Energy Optimization
+  print("\n**Predictions and Free Energy Optimization**")
+  print("Math excels at making predictions through structure preservation via functions and equations.")
+  print("These predictions can be seen as a form of agency, independent of time (non-temporal).")
+  print("The concept is analogous to minimizing free energy in physics, suggesting a deeper connection.")
+
+  # Conclusion: Math as an Agent
+  print("\n**Conclusion: Math as an Agent**")
+  print("This view challenges the traditional perspective and opens new avenues for exploration.")
+  print("It suggests math might be more than just a tool, potentially impacting fields like physics and economics.")
+
+# Run the function
+argue_math_agency()
+
+Mistral
+
+ "Reimagining Math: A New Perspective on Math as an
+ Agent with Predictive Power"
+
+ Abstract:
+ In this talk, we propose a radical new perspective on
+ mathematics - viewing it as an agent with predictive
+ power. This shift from the traditional perspective of math
+ as a static collection of rules and concepts can open up
+ exciting new avenues for exploration in various fields,
+ including physics and economics.
+
+ First, we discuss how mathematical constraints, such as
+ logical consistency, introduce scarcity within the
+ framework, enabling agency. We argue that these
+ limitations force choices and allow for optimal solutions
+ to emerge through universal properties.
+
+ Second, we explore how mathematics excels at making
+ non-temporal predictions by preserving structure via
+ functions and equations. These predictions can be seen as
+ a form of agency, similar to minimizing free energy in
+ physics, suggesting a deeper connection between the two.
+
+ By viewing math as an agent, we challenge the traditional
+ perspective and open up new possibilities for
+ understanding its role in shaping our world. This
+ perspective could potentially lead to advancements in
+ fields like artificial intelligence, where mathematical
+ models can be seen as autonomous agents with predictive
+ capabilities.
+
+Gemini
+
+This talk is about a new perspective on agency, that it might be fundamental and underlie everything in our universe, including math.
+
+The speaker, who came from economics background, will introduce the concept of agency in math and its implications.
+The talk will cover 4 main points:
+
+Scarcity, a concept from economics, will be argued as a necessary condition for agency. Math will be shown to have scarcity, suggesting it might be agentic.
+Two agentic concepts in math, universal properties and adjoint functors, will be explained.
+Time permitting, the concept of timeless choice will be discussed.
+The talk will end with a hypothesis that life and physical structures exploit the affordances given to them by math to have agentic properties.
+
+The passage talks about agency in mathematics, arguing that scarcity is necessary for agency and that math exhibits this scarcity. Here are the key points:
+
+**Scarcity and Agency:**
+
+* Agency involves making choices, and choices require trade-offs.
+* Trade-offs can only happen when there's scarcity (limited resources).
+* Economics defines scarcity based on finite physical resources.
+
+**Scarcity in Math (not finite resources):**
+
+* Math makes trade-offs (e.g., odd vs even numbers).
+* These trade-offs imply scarcity, but math doesn't have finite resources.
+
+**Logical Consistency and Scarcity:**
+
+* Contradictions (avoiding trade-offs) prevent agency in math.
+* Logical consistency (making choices) enforces scarcity in math.
+
+**Universal Properties and Agency:**
+
+* Universal properties define objects based on their usefulness.
+* They specify the "best" object for a particular job.
+* This "best" selection relates to efficient solutions and scarcity.
+
+**Example: Cartesian Product:**
+
+* Defined as sets with projection functions for reconstruction.
+* Allows comparison with other product candidates.
+* Universal property ensures the Cartesian product is the optimal solution.
+
+**Implications of Universal Properties:**
+
+* They show efficiency and preferred solutions in math.
+* They demonstrate top-down control and optimality testing.
+* They reveal unexpected capabilities through testing (not assumptions).
+
+**Overall Argument:**
+
+* Scarcity, through logical consistency, is necessary for agency in math.
+* Math exhibits agency through concepts like universal properties.
+
+The passage is a complex analysis of mathematical concepts. Let me know if you'd like clarification on specific parts or want to explore the concept of adjoint functors mentioned at the end.
+
+The passage talks about adjoint functors in math using the concept of monoids (structures for combining things). Here's a breakdown:
+
+**Monoids and Choices:**
+
+* We define a monoid where adding 1 gives the next number (like counting).
+* We choose a strange rule: 3 + 1 = 0, creating a looping pattern (0, 1, 2, 3, 0, 1...).
+* This "expensive monoid" represents a less efficient way of counting.
+
+**Free Monoid vs Expensive Monoid:**
+
+* We define a "free monoid" where adding 1 continues the sequence normally (0, 1, 2, 3, 4...).
+* This represents a more efficient way of counting (linear counting).
+
+**Comparing Monoids with Functions:**
+
+* We create a function that maps the free monoid to the expensive monoid.
+* This function preserves the counting structure (adding 1 in both).
+
+**Visualizing the Comparison:**
+
+* The expensive monoid is like ripples in water that collapse back to zero.
+* The free monoid is like normal ripples expanding outward infinitely.
+
+**Free Monoid is Optimal:**
+
+* The free monoid contains all the patterns of the expensive monoid (can count linearly and in loops).
+* It's built "lazily" (without unnecessary collapsing) and is more versatile.
+
+**Adjoint Functors Explained:**
+
+* Adjoint functors are like lazy translations between mathematical structures.
+* They can create or destroy information in a way that minimizes effort.
+* They provide a universal solution to a specific problem (like counting by one).
+
+**Connection to Real World:**
+
+* Similar to the "least action" principle in physics, adjoint functors find optimal solutions.
+* They represent a fundamental concept in math, appearing in many important areas.
+
+**Analogy: Free Monoid as DNA**
+
+* The free monoid holds the relational structure for various counting patterns.
+* Like DNA, it provides the blueprint for building specific monoids.
+
+**Conclusion:**
+
+* Math involves trade-offs due to logical consistency, not physical limitations.
+* These trade-offs create agency in math, allowing for optimal solutions within the mathematical system itself.
+* Adjoint functors are a powerful tool for finding such optimal solutions in a "lazy" way.
+
+Overall, the passage uses monoids as an example to explain adjoint functors and their role in finding optimal solutions within a mathematical framework. It highlights the concept of agency in math and how it relates to efficiency and "least action."
+
+The speaker is explaining a concept called "timeless agency" in math, where math is seen as an agent that can make predictions through structure preservation. Here are the key points:
+
+Traditional View of Math:
+
+Math is seen as a static set of rules and concepts.
+Humans use math to solve problems, and these solutions involve time.
+
+Timeless Agency in Math:
+
+The core of an action (like predicting) is preserving structure.
+Math excels at preserving structure through equations and functions.
+We can think of math as "making predictions" without time involved.
+
+Example: Free Monoid vs. Expensive Monoid:
+
+The free monoid efficiently counts numbers (0, 1, 2, 3...).
+The expensive monoid counts in a loop (0, 1, 2, 3, 0, 1...).
+We can use the free monoid to predict the behavior of the expensive monoid.
+Analogy: Footprint as Timeless Prediction:
+
+A footprint preserves the structure of the foot that made it.
+We can predict the shape of the foot from the footprint (without time).
+
+Math as Agent:
+
+By preserving structure, math makes predictions (like equations).
+This "timeless prediction" is a form of agency in math.
+Connection to Physics:
+
+Minimizing free energy in physics is a similar concept to structure preservation.
+Timeless aspects of physics might be related to this concept.
+Implications:
+
+This view of math sheds light on how math is used in the physical world.
+It might help solve problems in economics (e.g., externalities).
+It suggests a connection between math and agent-based models (minimizing energy).
+Further Exploration:
+
+Research on "doing physics without time" by Julian Barbour.
+The speaker is challenging the traditional view of math and proposing a new perspective where math itself has a form of agency through timeless predictions. This could have implications for various fields like physics, economics, and agent-based modeling.
+
+Claude
+
+Here is a summary of the key points from the video "Agency at the Very Bottom" by Benjamin Lyons:
+
+Traditionally, math is seen as a static, timeless system of rules and concepts that humans apply to model and solve problems.
+
+Lyons proposes a new perspective where math can itself be seen as an agent, capable of making predictions independent of time.
+
+He draws an analogy to minimizing free energy in physics. Just as physical systems optimize energy, math optimizes through patterns like universal properties.
+
+Examples of universal properties like the Cartesian product show math determining optimal solutions within its constraints, demonstrating a form of agency.
+
+Lyons uses monoids to show how concepts like adjoint functors preserve structural relationships, allowing math to make predictive mappings between systems.
+
+This "timeless prediction" through structural preservation is likened to phenomena like leaving footprints - the future is encoded in the past.
+
+Seeing math as an agent challenges the traditional view and could shed new light on math's role in fields like physics and its applications to problems in economics.
+
+Overall, Lyons argues the constraints of logical consistency within math are sufficient to give rise to agency in the form of optimal, predictive patterns - challenging notions of temporality and causality.
+
+In summary, the talk introduces the novel idea of seeing math itself as an agent capable of making timeless predictions through universally optimal structures and mappings between systems. This shifts the view of math's role beyond a static tool to an autonomous, world-shaping entity.
+
+* Connections with Null Convention Logic
+
+In NCL, circuits are modeled as networks of computational elements (gates) that evaluate inputs and propagate outputs. Similarly, when thinking of math as an agent, mathematical structures and relationships can be viewed as networks of functional transformations that take inputs and produce outputs.
+
+NCL circuits propagate logical values (data, null) through the network to complete evaluations in a wave-like manner. Thinking of math as an agent, functional compositions could propagate "meaning" or structural relationships through the mathematical network to make predictions/evaluations.
+
+NCL uses null values to reset circuits before new inputs, enforcing completeness criteria. In math, "reset" may occur through boundary/initial values that initialize structural relationships before new predictive mappings are evaluated.
+
+NCL circuits are symbolically complete - they determine their own state without external clocks. Thinking of math as an agent, mathematics may determine its own applicability/completion through internal consistency/structure rather than external notions of time/causality.
+
+NCL shows how asynchronous/timing-independent circuits can be realized through inherent logical evaluations rather than separating logic from control. Thinking of math as an agent challenges separation of data transformation from control/sequencing.
+
+So in both NCL and thinking of math as an agent, there are analogies around propagating meaning/structure through computational/functional networks, enforcing completeness, achieving symbolic/internal consistency rather than reliance on external reference frames like time. The null concept in NCL is also akin to how boundary/initial values may operate in mathematical agencies.
+
+* Can you provide an example of how the null concept in NCL is similar to boundary/initial values in mathematical agencies?
+
+* How does NCL handle the propagation of "meaning" or structural relationships through the computational network?
+
+* Can you explain more about how mathematics determines its own applicability/completion through internal consistency/structure?
+
+
+Here are some more details on the connections:
+
+Propagation of meaning in NCL:
+
+In NCL, logical values (0,1,null) propagate through the gate network as inputs are evaluated
+The null value acts as a "reset" or placeholder, propagating to gates until both inputs are data
+This enforces completion criteria before gates can output meaningful data values
+Similarly, in thinking of math as an agency, "meaning" in the form of relationships/transformations could propagate through functional compositions
+Null values and boundary conditions:
+
+In NCL, inserting null values resets the circuit before new inputs can be processed
+Boundary/initial values in math serve a similar role, specifying starting conditions for relationships
+E.g. setting variables to null at boundaries allows mapping functions to operate on new inputs
+Without boundaries, mappings may not be well-defined or lead to paradoxes
+Internal consistency in mathematics:
+
+Mathematical systems are based on axioms, definitions and logical deductions
+Results that follow are claimed to be "true" based on the internal consistency of the system
+E.g. geometry is true because axioms don't contradict and relationships are logically entailed
+Contradictions would invalidate the system, so consistency is constantly enforced
+Mathematical agencies may determine their own applicability through non-contradictory mappings between consistent domains, without relying on external factors like time
+So in both cases, the propagation and use of distinct values like null or boundaries allows mathematical systems and NCL circuits to maintain an internal consistency that determines what is a valid result or "completed" evaluation based on symbolic/logical criteria, rather than external reference frames.
+
+
+* Can you provide an example of how boundary values are used in mathematical agencies?
+
+Here is an example of how boundary values could be used in a mathematical agency:
+
+Consider the function f(x) = x^2 defined over the real numbers. On its own, this function does not have a well-defined input-output relationship, as x could take any real value.
+
+To use f(x) as part of a mathematical agency that makes predictions, we need to specify boundary conditions that initialize the input domain. Some options:
+
+Define f(x) only for x ≥ 0. The boundary x=0 resets the input before each evaluation.
+
+Define f(x) periodically, with boundaries x = 0 and x = 2π. This allows the function to map inputs back to itself repeatedly.
+
+Define f(x) for -1 ≤ x ≤ 1. The boundary values x = -1 and x = 1 delimit the domain over which f can map inputs.
+
+In each case, the boundary values:
+
+Specify the starting conditions for the functional relationship
+Initialize the input domain before predictions are made
+Prevent contradictory outputs by restricting the mapping to a well-defined region
+Allow the function to recurse repeatedly on new inputs
+We could compose multiple functions, like f(g(x)), where g(x) defines a periodic input from 0 to 2π. Each function restricts its output to predefined boundaries, ensuring the overall agency maintains internal consistency through recursively defined mappings between bounded domains.
+
+So boundaries anchor mathematical structures to definite domains, enabling them to recursively transform and propagate inputs/relationships as part of a self-contained predictive system (mathematical agency). Contradictions are avoided through restricted but consistently defined functional compositions.
+
+* Can you give a more everyday example?
+
+Okay, here's a more everyday example of how boundary values could enable a mathematical "agency":
+
+Imagine you're baking cookies. You have a recipe that defines the functional relationships between ingredients:
+
+f(x) = flour + x sugar
+g(x) = x eggs + vanilla
+h(x) = x butter + chocolate chips
+On their own, these functions don't have well-defined inputs or outputs.
+
+But by specifying boundary conditions, you can initialize a baking "agency" that takes raw ingredients and predictably produces cookies:
+
+Set boundaries on flour (1-2 cups), sugar (0.5-1 cup), etc.
+
+Define the functions only for input ranges within those boundaries.
+
+Compose the functions, like h(g(f(x))) to add ingredients in steps.
+
+Now you have a system that:
+
+Takes predefined starting materials (boundaries)
+Transforms them predictably through baking functions
+Ensures ingredients don't exceed useful ranges
+Can reuse the functions repeatedly on new "inputs" of ingredients
+By restricting compositions to bounded domains, you guarantee cookies will come out right every time without contradictions. The boundary values anchor the mathematics to reality in a way that enables its predictive agency.
+
+The key idea is that precisely defined boundary conditions allow mathematical structures to recursively operate on inputs in a self-consistent manner, achieving pragmatic function rather than abstract theory. Real-world agents also rely on such anchored transformations.
+
+
+References:
+Agency at the Very Bottom - Benjamin Lyons - April 2024
+https://www.youtube.com/watch?v=1tT0pFAE36c
+
+
+NULL Convention Logic: a complete and consistent logic for asynchronous digital circuit synthesis
+Karl Fant, Scott Brandt - Sept 1996
+https://www.researchgate.net/figure/NULL-Convention-Logic-sequential-circuit_fig13_3657599
