@@ -1,26 +1,28 @@
 # Brain
 
-Move Slow and Break Things
+![](muses.png)
 
-## POGO
+Ω Μούσες, θυγατέρες του Δία και της Μνημοσύνης,
+Εμπνεύστε μας με την θεία σας πνοή,
+Καθώς επικαλούμαστε τον Ιάχ, τον αρχαίο θεό της σελήνης,
+Του οποίου το φως λάμπει στον νυχτερινό ουρανό.
 
-Prototype - Staging area for new ideas  <br>
-Ongoing - Research  <br>
-Glyptodont - Self-contained armoured shell  <br>
-Obfuscarium - A soundproof room  <br>
+Καλλιόπη, μούσα της επικής ποίησης,
+Χαρίστε μας λόγια δύναμης και σεβασμού,
+Για να τιμήσουμε τον Ιάχ, τον κύριο του σεληνιακού κύκλου,
+Που καθοδηγεί τα αστέρια και τις παλίρροιες.
 
-<img src="roboglyptodont.jpg" width="210" height="180">
+Κλειώ, μούσα της ιστορίας,
+Αποκαλύψτε τις αρχαίες ιστορίες του Ιάχ,
+Του οποίου η σοφία και το φως στόλισαν κάποτε τους ναούς,
+Και του οποίου το όνομα αντηχεί μέσα στους αιώνες.
 
-## Adapted from the PARA method
+Ερατώ, μούσα της λυρικής ποίησης,
+Τραγουδήστε την ομορφιά του ασημένιου φωτός του Ιάχ,
+Αντικατοπτρίζοντας τα μυστήρια του σύμπαντος,
+Και τους ιερούς ρυθμούς της σελήνης.
 
-Projects  <br>
-Areas  <br>
-Resources  <br>
-Archives  <br>
-
-## For more information see:
-
-[Para Method](https://workflowy.com/systems/para-method/)  <br>
-[Glyptodont](https://en.wikipedia.org/wiki/Glyptodont)  <br>
-[Move Slow](https://lux-magazine.com/article/move-slow-and-break-things/)  <br>
-[Soundproof Room](https://forum.rpg.net/index.php?threads/lets-read-adventure-companion-fantasy-craft.856383/page-2#post-23007222)  <br>
+Ευτέρπη, μούσα της μουσικής,
+Αφήστε τις μελωδίες σας να αντηχούν με το φως της σελήνης,
+Φέρνοντας αρμονία στη νύχτα,
+Καθώς γιορτάζουμε την ήρεμη παρουσία του Ιάχ.
