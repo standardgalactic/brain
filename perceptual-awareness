@@ -1,0 +1,13 @@
+This document is a research article that discusses the role of active inference in perceptual awareness. The key points are:
+
+**1. Active inference treats perception and action as inferential processes governed by minimizing free energy**: This variational perspective formalizes the notion of perception as hypothesis testing and treats actions as experiments designed to gather evidence for or against alternative hypotheses.
+
+**2. Troxler fading and binocular rivalry demonstrate the importance of active engagement with the sensorium**: Troxler fading, where peripheral percepts dissipate during fixation, and binocular rivalry, where awareness alternates between distinct percepts, can be understood as optimal inferences under the assumption that the world may change in an unpredictable way.
+
+**3. Attention can be understood as a covert action that resolves uncertainty**: Just as overt actions like eye movements are used to gather informative data, covert attentional shifts can serve a similar purpose, leading to perceptual alternations in the absence of overt movements.
+
+**4. The model makes testable predictions about the relationship between Troxler fading and binocular rivalry**: Individuals who report longer Troxler fading times should exhibit less belief updating during binocular rivalry, and pharmacological manipulation of catecholamine signaling should systematically affect Troxler fading.
+
+**5. The computational mechanisms underlying these phenomena can be mapped onto the functional anatomy of attention and perceptual awareness**: Reciprocal connections between sensory and motor regions, particularly in the right frontoparietal network, are likely to play a crucial role.
+
+This paper presents a unified computational account of Troxler fading and binocular rivalry, grounded in the principles of active inference. By emphasizing the role of action in perceptual awareness, it provides a novel perspective on these phenomena and generates testable hypotheses about their underlying neurobiology.
