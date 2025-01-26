@@ -77,4 +77,6 @@
 
 *[Xyloarchy](https://standardgalactic.github.io/brain/Xyloarchy.txt)*
 
+*[Yeast Computers](https://standardgalactic.github.io/brain/Yeast-Computers.txt)*
+
 *[Zygomindfulness](https://standardgalactic.github.io/brain/Zygomindfulness.txt)*
